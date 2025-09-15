@@ -1,4 +1,4 @@
-# MusiX3.0
+# Blockchain-Music_App App
 
 ![3](https://user-images.githubusercontent.com/62725955/211182123-a4e2efb5-8666-41ae-b956-ce3ea34072cb.png)
 
